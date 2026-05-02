@@ -1,4 +1,4 @@
-#Prompt 1
+## Prompt 1
 
 /opsxpropose
 "Create the first feature of the Task Manager defined in the project.
@@ -45,14 +45,14 @@ Do not implement yet:
 - persistent storage"
 
 
-# Prompt 2
+## Prompt 2
 /opsx-apply initial-task-board
 
 
-# Prompt 3
+## Prompt 3
 /opsx-archive initial-task-board
 
-# Prompt 4
+## Prompt 4
 /opsxpropose
 "Complete the remaining Task Manager features defined in the project.
 
@@ -99,13 +99,13 @@ Do not implement:
 - build tools"
 
 
-# Pronpt 5
+## Pronpt 5
 /opsx-apply task-board-interactions
 
-# Pronpt 6
+## Pronpt 6
 /opsx-archive task-board-interactions
 
-# Prompt 7
+## Prompt 7
 /opsxpropose
 "Fix the drag and drop behavior in the Task Manager.
 
@@ -150,13 +150,13 @@ Do not implement:
 - external frameworks
 - build tools"
 
-# Prompt 8
+## Prompt 8
 /opsx-apply fix-task-dnd-persist
 
-# Prompt 9
+## Prompt 9
 /opsx-archive fix-task-dnd-persist
 
-# Prompt 10
+## Prompt 10
 /opsxpropose
 "Review and fix the drag and drop behavior across board columns.
 
@@ -181,9 +181,9 @@ not adding functionality outside the defined scope
 preserving the current board structure
 improving only the drag and drop behavior for empty columns"
 
-# Prompt 11
+## Prompt 11
 /opsx-apply fix-dnd-empty-columns
 
-# Prompt 12
+## Prompt 12
 /opsx-archive fix-dnd-empty-columns
 
