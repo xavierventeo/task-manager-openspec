@@ -71,6 +71,8 @@ The app was built **incrementally** with OpenSpec:
 3. **Tasks** listed small implementation steps.  
 4. Implementation followed those tasks, then changes could be **archived** when done.
 
+Along the way, **`openspec/specs/agents.md`** and **`openspec/specs/project.md`** were written and adjusted so assistants and OpenSpec have clear context about how agents should behave and what the Task Manager project is supposed to deliver.
+
 Each feature slice started from an **OpenSpec proposal command** (in Cursor, commands such as **`/opsx:propose`** or **`/opsxpropose`**), followed by apply and archive steps where used. The exact wording used in this project is preserved in **`prompts.md`** (see below).
 
 ## 6. Prompts reference
